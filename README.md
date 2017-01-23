@@ -9,6 +9,6 @@ This repository contains all of my problem sets from NLP. Each folder contains t
   * In this problem set I build a Bigram HMM part-of-speech tagger. Part of speech taggers are particularly useful for word ambiguity i.e "I'll book a flight" vs "I read a book". I computed the percent of ambiguous words, implemented a Joint Probability method for computing the HMM
 probability of a tagged sentence and the dynamic programming Viterbi method for POS tagging. Lastly, I computed the accuracy and compared it to my basline model
 * Problem Set 4:Statistical parsing
-  * In this problem set I build a Build a PCFG parser. For this assignment I use the Penn Treebank corpus. I first find the the most probable 10 productions for the NP nonterminal, implement the probabilistic CKY algorithm for parsing a test sentence using
+  * In this problem set I build a Build a PCFG parser. For this assignment I use the Penn Treebank corpus to: find the most probable 10 productions for the NP nonterminal, implement the probabilistic CKY algorithm for parsing a test sentence using
 my learned PCFG, bucket my test set sentences into the following 5 buckets and figured out how many sentences fall in each bucket and lastly for each bucket, unbinarize and print your predicted trees and gold standard
 trees, one tree per line. (These gold and test files can be provided upon request).
