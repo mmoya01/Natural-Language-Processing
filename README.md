@@ -20,7 +20,7 @@ In this problem set I build a Bigram LM using the Brown Corpus. These estimates 
  
  ---
 #### Problem Set 3: POS Tagging with Hidden Markov models 
-In this problem set I built a Bigram HMM part-of-speech tagger. Part of speech taggers are particularly useful for word ambiguity i.e "I'll _**book**_a flight" where the word *book* is a verb versus "I read a_**book**_". I computed the percent of ambiguous words, implemented a Joint Probability method for computing the HMM probability of a tagged sentence and the utilized dynamic programming by using Viterbi method for POS tagging. Lastly, I computed the accuracy and compared it to my basline model
+In this problem set I built a Bigram HMM part-of-speech tagger. Part of speech taggers are particularly useful for word ambiguity i.e "I'll _**book**_ a flight" where the word *book* is a verb versus "I read a _**book**_". I computed the percent of ambiguous words, implemented a Joint Probability method for computing the HMM probability of a tagged sentence and the utilized dynamic programming by using Viterbi method for POS tagging. Lastly, I computed the accuracy and compared it to my basline model
 
 [python code for pset3](https://github.com/mmoya01/Natural-Language-Processing/blob/master/pset3/pset3_code.py)
 
