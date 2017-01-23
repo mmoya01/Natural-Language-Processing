@@ -1,5 +1,5 @@
 ## Natural Language Processing 
-This repository contains all of the problem sets completed from my NLP class at Tufts
+This repository contains all of the problem sets completed during my NLP class at Tufts
 
 ---
 
