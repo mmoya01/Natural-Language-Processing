@@ -1,5 +1,5 @@
 ## Natural Language Processing 
-This repository contains all of my problem sets from NLP. Each folder contains the instructions for the assignment instructions and a write up that explains the solutions. Click the link for my python code for each problem set
+This repository contains all of my problem sets from NLP. Each folder contains the instructions for the assignment instructions and a write up that explains the solutions. Click the links for the python code that I wrote for each corresponding problem set
 
 * [Problem Set 1: Regular expressions and finite state automata](https://github.com/mmoya01/Natural-Language-Processing/blob/master/pset1/pset1_code.py)
   * In this problem set I build a FSA that accepts all dates in the form MM[/, - or blank ]DD[/, - or blank ]YYYY from 1900 to 2099
