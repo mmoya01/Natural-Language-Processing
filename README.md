@@ -10,5 +10,5 @@ This repository contains all of my problem sets from NLP. Each folder contains t
 probability of a tagged sentence and the dynamic programming Viterbi method for POS tagging. Lastly, I computed the accuracy and compared it to my basline model
 * [Problem Set 4:Statistical parsing](https://github.com/mmoya01/Natural-Language-Processing/blob/master/pset4/pset4_code.py)
   * In this problem set I build a Build a PCFG parser. For this assignment I use the Penn Treebank corpus to: find the most probable 10 productions for the NP nonterminal, implement the probabilistic CKY algorithm for parsing a test sentence using
-my learned PCFG, bucket my test set sentences into the following 5 buckets and figured out how many sentences fall in each bucket and lastly for each bucket, unbinarize and print your predicted trees and gold standard
+my learned PCFG, bucket my test set sentences into the following 5 buckets and figured out how many sentences fall in each bucket and lastly for each bucket, I unbinarized and printed my predicted trees and gold standard
 trees, one tree per line. (These gold and test files can be provided upon request).
