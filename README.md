@@ -1,5 +1,7 @@
 ## Natural Language Processing 
-This repository contains all of my problem sets from NLP
+This repository contains all of the problem sets completed from my NLP class at Tufts
+
+---
 
 #### Problem Set 1: Regular expressions and finite state automata python file
 In this problem set I build a FSA that accepts all dates in the form MM[/, - or blank ]DD[/, - or blank ]YYYY from 1900 to 2099
